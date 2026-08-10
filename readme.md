@@ -17,7 +17,7 @@ You can run, evaluate, and test this project directly in your browser without do
 ### Option 2: StackBlitz 
 1. Open [StackBlitz](https://stackblitz.com).
 2. Append your public repository path to the URL like this: 
-   `https://stackblitz.comgithub/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME`
+   `https://stackblitz.com/github/lowkeyelonmusk/budget-app`
 3. Execute the code instantly using StackBlitz's WebVM terminal interface.
 
 ---
@@ -34,7 +34,7 @@ If you prefer to review and execute the budget application on your local machine
 1. **Clone the repository:**
    ```bash
    git clone https://github.com
-   cd YOUR_REPOSITORY_NAME
+   cd budget-app
    ```
 2. **Execute the project script:**
    ```bash
